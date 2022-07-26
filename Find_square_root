@@ -1,9 +1,0 @@
-# Python Program to calculate the square root
-
-# Note: change this value for a different result
-num = float(input("enter value:"))
-
-num_sqrt = num ** 0.5
-print('The square root of %0.3f is %0.2f'%(num ,num_sqrt))
-
-# 0.2 tells how many digets to show on the right
